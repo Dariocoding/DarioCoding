@@ -1,7 +1,7 @@
 {
-	"name": "landingpage-react-template",
+	"name": "dariocoding",
 	"private": true,
-	"homepage": "https://Dariocoding.github.com/DarioCoding",
+	"homepage": "https://dariocoding.github.io/DarioCoding/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.3.2",
@@ -15,7 +15,7 @@
 	},
 	"scripts": {
 		"predeploy": "npm run build",
-		"deploy": "gh-page -d build",
+		"deploy": "gh-pages -d build",
 		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"test": "react-scripts test",
