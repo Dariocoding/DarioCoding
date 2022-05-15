@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DarioCoding/static/css/main.83b5dced.chunk.css",
+    "main.js": "/DarioCoding/static/js/main.84094456.chunk.js",
+    "main.js.map": "/DarioCoding/static/js/main.84094456.chunk.js.map",
+    "runtime-main.js": "/DarioCoding/static/js/runtime-main.ca5af0ce.js",
+    "runtime-main.js.map": "/DarioCoding/static/js/runtime-main.ca5af0ce.js.map",
+    "static/js/2.6071631c.chunk.js": "/DarioCoding/static/js/2.6071631c.chunk.js",
+    "static/js/2.6071631c.chunk.js.map": "/DarioCoding/static/js/2.6071631c.chunk.js.map",
+    "index.html": "/DarioCoding/index.html",
+    "static/css/main.83b5dced.chunk.css.map": "/DarioCoding/static/css/main.83b5dced.chunk.css.map",
+    "static/js/2.6071631c.chunk.js.LICENSE.txt": "/DarioCoding/static/js/2.6071631c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca5af0ce.js",
+    "static/js/2.6071631c.chunk.js",
+    "static/css/main.83b5dced.chunk.css",
+    "static/js/main.84094456.chunk.js"
+  ]
+}
