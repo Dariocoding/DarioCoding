@@ -5,10 +5,7 @@ export const Gallery = props => (
 		<div className="container">
 			<div className="section-title">
 				<h2>Portfolio</h2>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit duis
-					sed dapibus leonec.
-				</p>
+				<p>Algunas imágenes de mis trabajos hechos</p>
 			</div>
 			<div className="row display-flex">
 				{props.data

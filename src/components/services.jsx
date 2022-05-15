@@ -15,10 +15,7 @@ export const Services = props => (
 		<div className="container">
 			<div className="section-title">
 				<h2>My Services</h2>
-				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit duis
-					sed dapibus leonec.
-				</p>
+				<p>Servicios que ofrezco en DarioCoding</p>
 			</div>
 			<div className="row">
 				{props.data ? (
