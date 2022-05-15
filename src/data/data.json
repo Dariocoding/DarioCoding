@@ -1,0 +1,98 @@
+{
+	"Header": {
+		"title": "DarioCoding",
+		"paragraph": "Su solución y su desarrollador web profesional"
+	},
+	"About": {
+		"paragraph": "Soy un desarrollador web ya con más de 1 año de experiencia y un alrededor de 3 años estudio he estado en multiples proyectos web y han sido exitosos gracias a mis conocimientos adquiridos en cursos y en proyectos reales siempre mejorando y buscando el conocimiento autodidacta.",
+		"Why": [
+			"Responsabilidad",
+			"Creatividad",
+			"Seguridad",
+			"Velocidad a la hora de hacer proyectos"
+		],
+		"Why2": [
+			"Altos conocimientos de programación",
+			"Conocimientos y aprendizaje mediante cursos y proyectos reales"
+		]
+	},
+	"Gallery": [
+		{
+			"title": "Inicio de Sesión APP Escritorio",
+			"largeImage": "img/portfolio/01-large.jpg",
+			"smallImage": "img/portfolio/01-small.jpg"
+		},
+		{
+			"title": "Modulo de Configuración APP Escritorio",
+			"largeImage": "img/portfolio/02-large.jpg",
+			"smallImage": "img/portfolio/02-small.jpg"
+		},
+		{
+			"title": "Modulo tipos pago APP Escritorio",
+			"largeImage": "img/portfolio/03-large.jpg",
+			"smallImage": "img/portfolio/03-small.jpg"
+		},
+		{
+			"title": "Project Title",
+			"largeImage": "img/portfolio/05-large.jpg",
+			"smallImage": "img/portfolio/05-small.jpg"
+		},
+		{
+			"title": "Project Title",
+			"largeImage": "img/portfolio/06-large.jpg",
+			"smallImage": "img/portfolio/06-small.jpg"
+		},
+		{
+			"title": "Project Title",
+			"largeImage": "img/portfolio/07-large.jpg",
+			"smallImage": "img/portfolio/07-small.jpg"
+		},
+		{
+			"title": "Project Title",
+			"largeImage": "img/portfolio/08-large.jpg",
+			"smallImage": "img/portfolio/08-small.jpg"
+		},
+		{
+			"title": "Project Title",
+			"largeImage": "img/portfolio/09-large.jpg",
+			"smallImage": "img/portfolio/09-small.jpg"
+		},
+		{
+			"title": "Project Title",
+			"largeImage": "img/portfolio/10-large.jpg",
+			"smallImage": "img/portfolio/10-small.jpg"
+		}
+	],
+	"Services": [
+		{
+			"name": "Desarrollo web",
+			"text": "Diseño y creación de paginas web intuitivas y funcionales con páginas de contacto y dinámicas con programación."
+		},
+		{
+			"name": "Aplicaciones web y aplicaciones de escritorio",
+			"text": "Aplicaciones web que pueden estar ubicadas en la web y además de eso poder convertir esa aplicación web en una aplicación de escritorio."
+		},
+		{
+			"name": "Aplicaciones de escritorio",
+			"text": "Aplicaciones de escritorio totalmente offline con una base de datos interna en su computadora y con capacidad de generar archivos excel y pdf."
+		}
+	],
+	"Contact": {
+		"phone": "+58 0424 3144714",
+		"email": "darioflores170@gmail.com"
+	},
+	"Features": [
+		{
+			"title": "Comunicación",
+			"text": "Comunicación activa con el cliente sobre el desarrollo de su sitio web o aplicación web."
+		},
+		{
+			"title": "Responsabilidad",
+			"text": "Sentido de la responsabilidad y a la hora de los tiempos de entrega."
+		},
+		{
+			"title": "Creatividad",
+			"text": "En el desarrollo la creatividad es muy importante porque con ella podemos resolver un problema de un millón de maneras!"
+		}
+	]
+}
